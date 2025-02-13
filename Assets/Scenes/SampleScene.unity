@@ -337,10 +337,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a02adf235691c849b500e77fa10d97c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  url: 
-  privateKey: 
-  worldAddress: 
-  ctSequencerURl: https://localhost:65321/chainTacticsSequencerHub
+  url: https://sovrun-testchain.rpc.caldera.xyz/http
+  privateKey: 0x3bca3fba9a4aeeb2c01fd2656bd5e024c83502781b7deb3bd34e7bd16622649f
+  worldAddress: 0xc9fe89e9f97c8ff478ec0bc6dd6346b1a150bdef
+  ctSequencerURl: http://localhost:5000/chainTacticsSequencerHub
 --- !u!4 &1892932143
 Transform:
   m_ObjectHideFlags: 0
